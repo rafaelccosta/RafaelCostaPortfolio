@@ -301,3 +301,10 @@ h4{
     max-width: 50%;
   }
 }
+
+h6{
+  color: #fff;
+  padding: 50px;
+  justify-content: center;
+  font-size: x-large;
+}
