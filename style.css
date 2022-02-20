@@ -196,18 +196,7 @@ h2{
 }
 
 
-#container {  
-    display: grid;  
-    grid-gap: 5px;  
-    grid-template-columns: repeat(auto-fit, minmax(600px, 1fr));
-    grid-template-rows: repeat(2, minmax(100px, 1fr));  
-}
 
-#container > div > img {  
-    width: 100%;  
-    height: 100%;  
-    object-fit: cover;  
-}
 
 .h3{
 font-size: 60px;
@@ -288,3 +277,4 @@ h4{
   margin-top: 20px;
   margin-bottom: 150px;
 }
+
